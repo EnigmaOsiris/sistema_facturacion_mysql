@@ -1,0 +1,5 @@
+Luis|Fernando|Prudencio Cruz|12345|1
+Lalo|Eduardo|Cruz Hernandez|14ISC078|2
+Juan|Juan|Mendoza Manzano|Juancho|2
+Sofy|Sofia|Aldaz Luis|Aldaz|1
+Diana|Diana Laura|Juarez Arellano|Juarez|2

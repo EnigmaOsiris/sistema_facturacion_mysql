@@ -1,0 +1,3 @@
+001|Jabon|120.0|1|Para labar
+2|Gel|34.0|2|Para cabello
+4|Coca-cola|27.0|2|Tomar
